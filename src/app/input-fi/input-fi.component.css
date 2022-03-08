@@ -1,0 +1,22 @@
+label {
+  color: #00ffff;
+}
+
+input {
+  margin: 0 0 0 1rem;
+  height: 3rem;
+  width: 9rem;
+  background: none;
+  font-size: 1rem;
+  color: #ffff00;
+  border: 1px solid #adff2f;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 0 0.4rem 0.15rem #adff2f;
+  transition: 0.3s;
+}
+
+input:hover {
+  box-shadow: 0 0 0.8rem 0.3rem #adff2f;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,11 @@
+label {
+  color: #ff00f2;
+}
+
+input {
+  margin: 1rem 0;
+  background: none;
+  color: #ffff00;
+  border: 1px solid #adff2f;
+  border-radius: 4px;
+}
